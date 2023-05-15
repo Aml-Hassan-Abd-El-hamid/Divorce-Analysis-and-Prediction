@@ -109,5 +109,21 @@ The EDA results of that dataset were really surprising to me, I'm not a relation
 - Q52, Q53 and Q54 which show the readiness of the partners to tell their spouses their inadequacies got answered mostly with 0 and 1 from non-divorced couples and 3 and 4 from divorced ones. 
 - Q52, Q53 and Q54 which show the readiness of the partners to tell their spouses their inadequacies got answered mostly with 0 and 1 from non-divorced couples and 3 and 4 from divorced ones. 
 
-**I used Pandas Profiling to conduct this EDA and it was a really great tool, if you didn't use it before, I highly recommend that you take a look at that article: https://towardsdatascience.com/pandas-profiling-easy-exploratory-data-analysis-in-python-65d6d0e23650 or to look it up online.
+**I used Pandas Profiling to conduct this EDA and it was a really great tool that produces really usefull reports, you can take a look on those reports in the notebook.<br> If you didn't use it before, I highly recommend that you take a look at that article: https://towardsdatascience.com/pandas-profiling-easy-exploratory-data-analysis-in-python-65d6d0e23650 or to look it up online.**
 
+## Modeling:
+
+I used **cross_val_score** which applyes the K-FOLD Cross Validation to get the accuracy score of each model and then chose the best one.
+
+I experimented with 4 different models:
+
+- Decision Tree
+- SVM
+- Random Forest
+- Logistic Regression
+
+And Logistic Regression won the battle with 98% +/- .12 accuracy.
+
+The reason why I chose to use those simple models is because the dataset is quite small and simple so I didn't think it will need a very complicated model.
+
+Also, the dataset is quite balanced with a 1:1.3 ratio between divorce and non-divorce, and that's why accuracy is a good metric for such a task.
