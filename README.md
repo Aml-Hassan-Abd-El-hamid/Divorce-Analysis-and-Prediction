@@ -102,6 +102,12 @@ The EDA results of that dataset were really surprising to me, I'm not a relation
 
 **On the other hand, there were some results that made sense - at least for me -** 
 
--the fact that the couples who stayed together never answered Q7 with anything but 0 or 1, So answering that question with anything higher than 1 is a real red flag in the relationship.
+- The fact that the couples who stayed together never answered Q7 with anything but 0 or 1, So answering that question with anything higher than 1 is a real red flag in the relationship.
+- Couples who stayed together answered the questions from 33 to 36 which indicates how disrespectful the couples are to each other, and the couples who stayed together mostly answered with 0 or 1 while more than 90% of the divorced couples answered those questions with 3 or 4.
+- Q37,  Q41 and Q47 which show how much anger is contained in that relationship, got mostly 0 and 1 from couples who stayed together while got mostly 3 or 4 from the divorced ones.
+- Q38,  Q39, Q40, Q42 and Q45 which show how bad the discussions and arguments and basically the communication skills between the couples can be, got mostly 0 and 1 from couples who stayed together while got mostly 3 or 4 from the divorced ones.
+- Q52, Q53 and Q54 which show the readiness of the partners to tell their spouses their inadequacies got answered mostly with 0 and 1 from non-divorced couples and 3 and 4 from divorced ones. 
+- Q52, Q53 and Q54 which show the readiness of the partners to tell their spouses their inadequacies got answered mostly with 0 and 1 from non-divorced couples and 3 and 4 from divorced ones. 
 
+**I used Pandas Profiling to conduct this EDA and it was a really great tool, if you didn't use it before, I highly recommend that you take a look at that article: https://towardsdatascience.com/pandas-profiling-easy-exploratory-data-analysis-in-python-65d6d0e23650 or to look it up online.
 
