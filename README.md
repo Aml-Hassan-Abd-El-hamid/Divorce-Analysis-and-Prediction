@@ -1,5 +1,7 @@
 # Divorce Analysis and Prediction
 
+<img src="https://github.com/Aml-Hassan-Abd-El-hamid/Divorce-Analysis-and-Prediction/blob/main/divorce-rings.jpg">
+
 In this project I conduct an analysis for the divorce dataset from Kaggle, you can find the dataset in the following link: https://www.kaggle.com/datasets/andrewmvd/divorce-prediction
 
 ## About this dataset:
