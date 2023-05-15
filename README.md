@@ -86,8 +86,22 @@ The dataset got no missing values.
 
 ## Conducting Exploratory Data Analysis
 
-The EDA results of that dataset were really surprising to me, I'm not a relationship expert myself but I had assumptions regarding what a marriage that would last would look like.
+The EDA results of that dataset were really surprising to me, I'm not a relationship expert myself but I had assumptions regarding what a marriage that would last would look like. I'll share some of the insights that I got on the relationships of that dataset from that EDA.
 
-For example: I assumed that couples that stayed together know a lot about each other so I expected the answer for the questions from 21 to 30 to have a 3 or 4 answer from the couples who stayed together but in this dataset, those questions were mostly answered by 0 or 1! 
+- Q8 is supposed to have a very positive meaning so I assumed that the couples that stayed with each other will answer it with 3 or 4, has really surprising results as you can from the report that from 84 couples who stayed together 76 persons answered that question with 0!
+- Q9 is same as Q9 and only 80 persons of the 84 couples who stayed togrther enjoy traveling with their wives!
+- Q10 which indicates whether the couples have the same goals or not has surprising results: almost 50% of the people who got divorced answered this question with 3, and more than 64% of the couples who stayed together answered it with 0!
+- Q11 which is really optimistic question got only 0 and 1 from the couples who stayed together while more than 69% of the divorced couples answered it with 3 and 4!
+- Q12 also got mostly 0 and 1 from the not-divorced couples and 2, 3 and 4 from divorced couples.
+- Q14 which indicates the unity of the goals of the couples which I assumed will get 3 and 4 from non-divorced, got mostly 0 and 1 from them!
+- Q15 which also indicates the unity of the dreams of the couples which I also assumed will get 3 and 4 from non-divorced, got mostly 0 and 1 from them!
+- Q16 is about the love concept for the cvouples and most of the non-divorced in this dataset seems to rarely agree on those concepts as they mostly answered that question with 0 and 1.
+- Q17 answers seems to reveal that non-divorced couples rarley share the same views about being happy while divorced does!
+- Q18, Q19 and Q20 answers shows that the couples who stayed together almost never share similar ideas about how marriage should be, how roles should be in marriage or the values in trust, while a lot of divorced does!
+- I also assumed that couples that stayed together know a lot about each other so I expected the answer for the questions from 21 to 30 to have a 3 or 4 answer from the couples who stayed together but in this dataset, those questions were mostly answered by 0 or 1! 
+
+**On the other hand, there were some results that made sense - at least for me -** 
+
+-the fact that the couples who stayed together never answered Q7 with anything but 0 or 1, So answering that question with anything higher than 1 is a real red flag in the relationship.
 
 
